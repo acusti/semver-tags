@@ -44,6 +44,7 @@
     "async": "~0.2.9",
     "semver": "~2.2.1",
     "commander": "~2.1.0",
-    "findup-sync": "~0.1.2"
+    "findup-sync": "~0.1.2",
+    "svn-info": "~0.1.3"
   }
 }
